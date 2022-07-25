@@ -6,7 +6,6 @@
 // @author       CC11001100
 // @match        https://m-beian.miit.gov.cn/*
 // @grant        none
-// @require      file://D:/workspace/icp-captcha-bypass-UserScript/icp-captcha-bypass.js
 // ==/UserScript==
 
 (async () => {
@@ -22,13 +21,7 @@
     while (true) {
         const x = document.querySelector("[placeholder=验证码]");
         if (x) {
-            //                 on: {
-            //                     input: function(e) {
-            //                         e.target.composing || (t.imgCode = e.target.value)
-            //                     }
-            //                 }
             x.value = "666666";
-            // x.fireEvent && x.fireEvent("onchange");
             x.dispatchEvent && x.dispatchEvent(new Event("input", { bubbles: true }));
         }
         await sleep(300);
