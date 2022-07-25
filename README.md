@@ -14,7 +14,7 @@ https://m-beian.miit.gov.cn/#/
 
 
 
-未开启插件：
+未开启插件时：
 
 ![image-20220725205930804](README.assets/image-20220725205930804.png)
 
@@ -23,6 +23,24 @@ https://m-beian.miit.gov.cn/#/
 开启插件后：
 
 ![image-20220725205951513](README.assets/image-20220725205951513.png)
+
+
+
+
+
+TODO 
+
+```
+PC站也加入bypass
+```
+
+
+
+
+
+
+
+
 
 
 
