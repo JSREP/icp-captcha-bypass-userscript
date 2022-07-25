@@ -14,7 +14,15 @@ https://m-beian.miit.gov.cn/#/
 
 
 
+未开启插件：
 
+![image-20220725205930804](README.assets/image-20220725205930804.png)
+
+
+
+开启插件后：
+
+![image-20220725205951513](README.assets/image-20220725205951513.png)
 
 
 
