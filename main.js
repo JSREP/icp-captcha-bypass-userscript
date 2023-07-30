@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         icp-captcha-bypass
-// @namespace    https://github.com/CC11001100/icp-captcha-bypass-UserScript
+// @namespace    https://github.com/JSREI/icp-captcha-bypass-userscript
 // @version      0.1
 // @description  避免每次都手输入验证码
 // @author       CC11001100
