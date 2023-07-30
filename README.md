@@ -52,7 +52,7 @@ https://m-beian.miit.gov.cn/#/
 
 ![image-20230730212402993](README.assets/image-20230730212402993.png)
 
-来全局搜索一下，找到了绘制验证码的代码：
+如果要用`JS`来在`canvas`上绘制验证码，第一件事可能就是先根据`canvas`的`id`获取到它，所以让我们来全局搜索一下，`ok`很顺利的就找到了绘制验证码的代码：
 
 ![image-20230730212344455](README.assets/image-20230730212344455.png)
 
